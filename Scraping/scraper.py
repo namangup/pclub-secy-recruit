@@ -33,7 +33,7 @@ for i in range(1,int(pages)+1) :
     # Loop to group all names, orgs and projs into their respective arrays
     for cards in card_split :
         name.append(cards[0])
-        org.append(cards[2][15:])
+        org.append(cards[2][14:])
         proj.append(cards[1])
 
     print(f'Page {i} Done')
