@@ -1,0 +1,1033 @@
+Name,Organization,Project
+Hopetech,.Org Foundation,"""Soft"" double precision floating point support"
+Nimmy,DE,1 Krita Canvas Decorations Compatible with Modern OpenGL
+rvolosatovs,LASMA-UMass,[Browsix] Init system
+Gábor Horváth,pache Software Foundation,[FLINK-3599] Code Generation in Serializers and Comparators of Apache Flink
+Teodor Ciuraru,"ysters, an Anita Borg Institute Community",[Malaria - iOS] Malaria Prevention iOS App
+saksham1115,NU Project,[MediaGoblin] Subtitle Interface along with keyboard hotkeys for video player
+Clemens Brunner,he Honeynet Project,[MITMProxy] Clemens Brunner
+Lakini Senanayaka,SO2,[ML]Visual(Deep) Neural Network Builder
+Izabela Cardoso,"ysters, an Anita Borg Institute Community",[PCSA-Android] Collaborative Map of Risk Areas
+payal97,"ysters, an Anita Borg Institute Community",[portal] Completion of Systers Portal Meetup App
+Nelson Liu,ython Software Foundation,[scikit-learn] Addition of various enhancements to the tree module by completing stalled pull requests.
+Fabio Vitor,VXPY,A Centralized Library for Convex Optimization and Integration of CVXPY with ILOG CPLEX
+xiaolei,ustainable Computing Research Group ( SCoRe ),A Clustering-based Analysis Tool for Anomaly Detection at Large Scale
+martidi,SGeo - The Open Source Geospatial Foundation,A complete photogrammetric OSSIM tool for automatic DSMs generation using multi-view optical and SAR images
+ljwolf,ython Software Foundation,A Core Datamodel for PySAL
+xingguo, project for statistical computing,A generic computational framework for biconvex minimization toolbox in R
+Vincent Bohlen,bpediaspotlight,A Hybrid Classifier/Rule-based Event Extractor for DBpedia Proposal
+Kartik Gupta,etaBrainz Foundation,A Job Running Client for AcousticBrainz
+Edgar Riba,penCV,A Modern Deep Learning module
+shad0w_,Query Foundation,A module system for Hammer.js
+Basil,obocomp,A new graphical tool for deploying components
+Aviral Dasgupta,atrix.org,"A plugin system for vector-web, with listing and configuration support."
+mate,NU Project,A private and secure auctioning library
+Lodovico Giaretta, Foundation,A replacement of std.xml for the Phobos standard library
+NeoRaider,reifunk,A schema-based configuration system for OpenWrt
+arnav dhamija,DE,A staging area to improve selecting files in Dolphin
+ranveeraggarwal,ython Software Foundation,A VTK-based UI for DIPY
+Abhinand,ikimedia Foundation,Abhinand GSoC Proposal : Extension for page creating/editing notification
+Tomasz Flendrich,ibvirt,Abstracting device address allocation
+Dinuka De Silva,nclusive Design Institute,"Accessible, Responsive Music UI Controls"
+prnk28,ikimedia Foundation,Accuracy Review of Wikipedia
+ssk1328,imVideos.us,"Add ""hardware mixing"" support to HDMI2USB firmware"
+Kevin Clancy,abLua,Add class-based object-oriented programming to Typed Lua
+Pulkit_Gupta,DE,Add educational activities to GCompris (In Qt Quick)
+Stefan Toncu,DE,Add educational activities to GCompris (In Qt Quick)
+Katerina Koukiou,ibvirt,Add libvirt support for LXC migration.
+Janaka,pache Software Foundation,Add MongoDB to Tajo Storage
+Pranjal Bhor,he Linux Foundation,Add MuPDF support to cups-filters for a lightweight mobile printing stack
+Muhammad Talha Paracha,rupal,Add Password-based Public-key Encryption to Drupal 8
+eklavya,ulip Open Source Project,Add Python 3 support and type hints
+bhimanshu,reeBSD,Add SCSI passthrough to CTL
+Wolthera,DE,Add softproofing and wide-gamut colour selector to Krita
+Iván Lomba,pache Software Foundation,Add support for arbitrary CPU and RAM in the ComputeService (jclouds-482)
+Dampir,itHub,Add support for lookup by repository ID throughout GitHub APIs
+blorente,cummVM,Add support for MacVenture games via WebVenture engine
+Supun Wanniarachchi,oodle,Add support to end-to-end testing in the Mobile app
+Carlos I. Colombana,SGeo - The Open Source Geospatial Foundation,Add tests and educational games support to gvSIG Educa.
+Ankush Mishra,pache Software Foundation,Add the ability to sync events from CalDAV to Apache OpenMeetings Calendar
+malayaleecoder,ndic Project,Add Varnam support into Indic Keyboard
+vishnuv,SCEND,Adding Incompressible Fluids EOS to FPROPS
+Jose Carrasco Mora,pache Software Foundation,Adding PaaS support to Brooklyn
+Suraj Ponugoti,reeBSD,Adding SCSI passthrough to CTL
+Devang Gaur,oodle,Adding search to more moodle components
+Fabian Kristof,DE,Adding support for the FITS data format in LabPlot
+srajangarg,ymPy,Adding to SymEngine's Polynomial functionality and interfacing it with FLINT & Piranha
+Nash Vail,Query Foundation,Adding UI components to Chassis framework
+rnikhil275,abLua,"Admin Center, Elasticsearch integration for Sailor and Luagoogle"
+Shubham Patel,erkman Center for Internet and Society,Admin Panel Customization in Book-a-Nook
+Aidana,he Apertium Project,Adopt an unreleased Kazakh-English language pair
+Ujitha Perera,ublic Lab,Advanced Searching and Sorting Tool for publiclab.org
+Idel Pivnitskiy,Boss Community,AeroGear WebPush and UnifiedPush Server integration
+GerardGarcia,EMU,AF_VSOCK packet capture in Linux and Wireshark
+varun_raiko,ariaDB,Aggregate Stored Funtions
+zma,he Tor Project,Ahmia search engine for hidden services
+jyeray,penSUSE,Alternatives YaST Module
+Hannah Pedersen,ortland State University,Amazon Echo Recipe Integration
+asla,EMU,AMD IOMMU interrupt remapping and other improvements
+coderabhishek,cala,Ammonite - Better Scripts in Scala
+Victor Dias,abLua,An automatic generator of WSDL documents to LuaSOAP
+dash95,imelab Technologies Ltd.,An integrated graphical environment for visual inspection and filtering of time-series for astronomy
+Rajan Maurya,ifos Initiative,Android Field Operations App Version 3
+masterflorin,SGeo - The Open Source Geospatial Foundation,Android istSOS client
+Chirayu Desai,ebian Project,Android SDK Tools in Debian
+Mouaad Aallam,ebian Project,Android SDK Tools in Debian
+Kai-Chung Yan,ebian Project,Android SDK Tools in Debian
+Fossa,ifos Initiative,AngularJS Community App Enhancements
+Faizan Khan, project for statistical computing,Animint
+Justin W. Flory (jflory7),edora Project,Ansible and the Community (or automation improving innovation)
+Kaide Mu,pache Software Foundation,Apache Cassandra: Make streaming operations resumable
+cihad guzel,pache Software Foundation,Apache CouchDB datastore implementation for Apache GORA
+bsikander,pache Software Foundation,Apache Hama benchmark against Spark and Flink
+Tao Lin,pache Software Foundation,Apache Spark: Build monitoring UI and related infrastructure for Spark SQL and structured streaming
+Tushar,pache Software Foundation,Apache SYNCOPE-809
+Menaka,pache Software Foundation,Apache VXQuery - Fully integrate Lucene Indexing into VXQuery
+Paul Bustios,pache Software Foundation,Apache Zeppelin Notebooks
+Kira,he Apertium Project,Apertium website improvements
+tiefling-cat,he Apertium Project,Apertium Weighted Transfer Rules
+kiran4399,eagleBoard.org,API support for Beaglebone Blue
+Gunjan Shrivastava,tony Brook University Biomedical Informatics,App development for infectious microbial genomics
+Cpt. Crispy Crunchy,ovingBlocks,Application for City Generation and dynamic Simulation
+lucasmoura,ebian Project,AppRecommender - integration with AppStream
+Marcos Pividori,lpack: a scalable C++ machine learning library,Approximate Nearest Neighbor Search
+mentekid,lpack: a scalable C++ machine learning library,Approximate Nearest Neighbor Search: Implementation of Multiprobe LSH and LSH Tuning
+DonKult,ebian Project,APT↔dpkg communication rework
+El-Mohr,owRISC,Arduino to PULPino library porting
+mvlabat,DE,Ark project: Implement advanced editing of archives
+nocturnalastro,penAstronomy,Astropy: Bridge sherpa and astropy fitting
+gulic,ibvirt,Asynchronous lifecycle events for storage objects
+amaneureka,eactOS,ATA/ATAPI drivers AHCI Support
+Shekhar Reddy,penMRS,Atlas 3.0
+saifulbkhan,NOME,Audio tag editing support for GNOME Music
+qiubit,ideoLAN / VLMC Project,Audio/Video sync mechanism
+YL,EAMMATES @ National University of Singapore,"AutoComplete ComboBox for Panel's Filter, Interactive Tutorial and GUI Filter Expression Generator"
+black-perl,he syslog-ng project,Automated release generation for syslog-ng
+smarshy,"ysters, an Anita Borg Institute Community",Automated Testing - VMS
+Alangi Derick (d3r1ck),ikimedia Foundation,Automated Testing and Integration of IFTTT support to Wikidata
+Anton Khodak,pen Bioinformatics Foundation,Automated tool wrapper/converter for CWL
+maditparis,"ysters, an Anita Borg Institute Community",Automated Unit Testing
+Junaid Ali,he Apertium Project,Automatic Blank Handling
+ibarbech,obocomp,Automatic code generation for State Machines
+Aditya Nambiar,bpediaspotlight,Automatic mappings extraction
+Rakshika Bagavathy,RL-CAD,Automatic Polygonal Mesh Healing
+spinute,uby,Automatic-selection mechanism for data structures in MRI
+Sanjeed Schamnad,pen Chemistry,Avogadro-2: Integration of cclib data parser using Chemical JSON
+Half-Shot,atrix.org,Bark: Microblogging in Matrix
+jbm950,ython Software Foundation,Base Class and Increased Efficiency for Equation of Motion Generators
+malithsen,ustainable Computing Research Group ( SCoRe ),Bassa
+Voskoboynick,lobal Alliance for Genomics & Health,Beacon Compliance Suite
+amragaey,eagleBoard.org,BeagleBoard GSoC'16: Improving Bone101 Experience
+Punit Vara,TEMS Project,Beaglebone Black BSP Improvement
+ZeekHuge,eagleBoard.org,BeagleScope
+Amelie HELIOU,ambit - Software Tools for Game Theory,Best responses representation in bimatrix games
+grievejia,he LLVM Compiler Infrastructure,Better Alias Analysis By Default
+Kamalpreet Kaur,nkscape,Better CSS Style Sheet Support
+Adrian Boguszewski,nkscape,Better data structure for selections
+Adam Wyłuda,cala,Better off-heap collections for Scala
+Jonathan Neuschäfer,oreboot,Better Support for RISC-V Systems
+Vlad Shablinsky,omebrew,Better support HEAD formulae
+Arushi Dogra,ndic Project,Better use on boarding/first time user experience
+Samyadeep Basu,pen Genome Informatics,Biological Graph Visualizations
+thejmazz,pen Bioinformatics Foundation,Bionode workflow engine for streamed data analysis
+Utsav_Chokshi,olibriOS,Bit torrent client for KolibriOS
+sebbas,lender Foundation,Blender Mantaflow Integration: Single Code Fluid Solver
+Oleg.jakushkin,ERN SFT,BLonD code optimization strategy for parallel and concurrent architectures
+Faye,ioJS,Bonestagram - DICOM visualisation made fun
+joshim5,omputational Biology @ University of Nebraska-Lincoln,Boolean-based Representations of Biological Systems
+Jainesh Doshi,rchC,Booting the eCos RTOS on the ArchC Simulator
+Visarion Alexandru,NOME,Boxes: More SPICE features
+Chalkos,uby,Breaking changes for the 2.0 release
+zlei,entoo Foundation,Bring Native Clang Support to Gentoo
+Ivan Josa,hysical Web Project,Bring Your Own Pois +  Android Controller Upgrade
+Chingchai Humhong,SGeo - The Open Source Geospatial Foundation,Bringing pyModis to the web through ZOO-Project
+sniok,RL-CAD,BRL-CAD Web Infrastructure Update
+Prital Patel,oomla!,Browser Automated Tests for Joomla! CMS(covering Users and Content features)
+Richard Meister,ublic Lab,Browser-based Arduino sensor data transfer using WebRTC and headphone jack
+mbj36,ifos Initiative,Browser-Based Offline Access
+apsdehal,Query Foundation,Bug Hunt
+JuexinWang,BioPortal for Cancer Genomics,Build a web service and auto updating pipeline to provide 3D structure alignments for BioPortal
+gauravgupta,loudCV,Build Deep Learning models online
+patmagee,lobal Alliance for Genomics & Health,Building a Better Beacon: Developing Supporting Tools for the Beacon Project
+Rokas,nternational Neuroinformatics Coordinating Facility,Building cortical network models in NeuroML2 using procedural and declarative programming approaches
+coco90417,"iomedical Informatics, Emory University",Building Survival Models from Genomic Data with Google TensorFlow
+Sergei Sakhno,olibriOS,C layer
+Jayton,ava Pathfinder Team,Cache layer for jpf-nhandler
+NemoNoboru,uby,Cap'n Proto RPC implementation by wrapping c++
+Kolpa,omputational Science and Engineering at TU Wien,Carbon Footprint for Google Maps Firefox Port
+PrateekGupta1509,omputational Science and Engineering at TU Wien,Carbon Footprints
+mishinma,ARDIS-SN,Carsus - TARDIS support package for creating atomic datasets.
+story645,umFOCUS,Categorical Axis
+Lokesh Sharma,uby Science Foundation,"Categorical data support for Daru, Statsample and Statsample-glm"
+Pulkit Bhatia,elluloid,Celluloid - Adding new features to Reel
+Prathmesh Ranaut,elluloid,Celluloid - Benchmarking and Performance Improvements
+Ma-Shell,he Honeynet Project,Centralized Service Configuration for Holmes
+rohitmohan96,Boss Community,Ceylon Markdown
+Lucas Werkmeister,Boss Community,Ceylon TypeScript Loader
+Canberk Koç,ebian Project,CI for Debian-Med
+Mouna A,iviCRM,Cividroid 2.0
+Pranay Yadav,iviCRM,CiviREBUX: Report Building Extension for CiviCRM
+sasanikolic,rupal,CKEditor plugins for TMGMT
+Prasad_arun,NU Project,Cleanup ffcall
+Anastasia,omebrew,Closer integrating Homebrew with Homebrew cask
+Ismael Arroyo,iquid Galaxy Project,Cloud Point Visualization for Liquid Galaxy
+lemourin,ideoLAN / VLMC Project,Cloud services support for vlmc
+diyclassics,lassical Language Toolkit,CLTK Latin/Greek Backoff Lemmatizer
+Richhiey,apian Search Engine Library,Clustering of Search Results
+Abhishek Kumar Annamraju,pen Detection,CNN based object localization and recognition for openDetection library
+Adhityaa Chandrasekar,ython Software Foundation,coala: Automatic settings guessing
+tushar-rishav,ython Software Foundation,coala: coala-html and coala website
+Adrianzatreanu,ython Software Foundation,coala: Decentralizing Bears
+SanketDG,ython Software Foundation,coala: Documentation Extraction
+mr-karan,ython Software Foundation,coala: Extend linter integration
+Abhay Raizada,ython Software Foundation,coala: Generic Spacing Correction
+Sheikh Araf,ython Software Foundation,coala: Integrating coala with the Eclipse IDE
+Redridge,ython Software Foundation,coala: Writing bears with different programming languages
+Harish Anand,edora Project,Cockpit Project's support for systemd timers
+Jayitra,NU Project,Code Refactor
+popeye,cGill Space Institute,Coders of Habitability
+bholagabbar,penMRS,Cohort Module Enhancements
+Georg Faustmann,omputational Science and Engineering at TU Wien,Colibri OpenADR connector
+goJoWe16,omputational Science and Engineering at TU Wien,Colibri – OBIX Connector
+PratyushTalreja,omputational Science and Engineering at TU Wien,Colibri: MATLAB Simulink Connector
+wojtuch,bpediaspotlight,Combining DBpedia and Topic Modelling
+Agata,OSSASIA,CommonsNet
+ad.laza32,SGeo - The Open Source Geospatial Foundation,Complete basic cartography suite in GRASS GIS wxGUI Map Display
+Ashik,IT Media Lab,Component Enhancement and Runtime Instantiation
+Xi-Jin Zhang (mfs6174),ed Hen Lab,Computer Vision and Machine Leaning Applications on Artwork Images
+Shiven Mian,OSSASIA,Conception and development of loklak_depot: a platform and marketplace for data
+Jakub,NOME,Configurable Shortcuts for Pitivi
+Vu Huy,he Tor Project,CONIKS for Tor Messenger
+Nathiesha,SO2,Contact Development Team feature in DevStudio
+Kacper,he Honeynet Project,Context based fuzzy clustering of malware
+Pallav Agarwal,entoo Foundation,Continuous stabilization of Gentoo Packages
+Tyan Vladimir,penCV,Convolutional Neural Networks for Visual Tracking
+Upendra Kumar,ython Software Foundation,Core Python: A GUI (tkinter) front end for pip
+Anish Shah,ython Software Foundation,Core Python: Roundup
+gaurav_tamba,uby Science Foundation,Create a Ruby Wrapper for NASA's SPICE Toolkit
+hakatashi,Query Foundation,Create a sandbox interface for tests
+Luciano,ebian Project,Create new recommendation strategy for AppRecommender
+Shivam Mamgain,OSSASIA,Create REST APIs to write data to the Open Event Organizer Server
+Avijit Gupta,ppia Foundation,Creator Dashboard
+divyaupadhyay,"ysters, an Anita Borg Institute Community",Crowdsourcing for the Guyana Deaf Community - Google Glass Integration
+pabloem,itrivr,Cthulhu - Vitrivr Feature Extraction Pipeline
+tocttou,loudCV,CVFY
+DingTo,lender Foundation,Cycles: Texture system improvements and better user feedback
+kulluiitb,"BDyn, Department of Aerospace Science and Technology at Politecnico di Milano",Cycloidal rotor module improvements
+Ashish Tiwari,ational Resource for Network Biology (NRNB),Cytoscape command line scripting enhancements
+tdgunes,ovingBlocks,DAG-based Rendering Pipelines for Terasology
+wannabecitizen,nclusive Design Institute,Data Visualization with Infusion
+maarouf,erkman Center for Internet and Society,Data-Agnostic Visualization Widgets [Internet Monitor Dashboard]
+KeonKim,lpack: a scalable C++ machine learning library,Dataset and Experimentation Tools
+Kunal Jha,bpediaspotlight,DBpedia Lookup Improvements
+Peter Vu,"iomedical Informatics, Emory University",De-Mystifying Medical Imaging DICOM Data
+Yida Wang,penCV,Deep Learning with Quantization for Semantic Saliency Detection
+Danoja,pache Software Foundation,Derby bug Fixing
+Nikos Koukis,obile Robot Programming Toolkit (MRPT),Design and developement of a full graph-based SLAM strategy in mrpt
+lopezm,he Julia Language,Design of an API and set up of a regression tracker for iterative methods in Julia
+Harsh Daftary,ebian Project,Developer Horizon and other extensions
+Pavani Tripathi,rchC,Developing RV32G Processor Model
+Silvia Franceschi,SGeo - The Open Source Geospatial Foundation,Development of a model for woody debris flooding hazard in gvSIG
+bdhruve,DE,Devising the Plasma Mobile Emulator
+ricardohmon,ert.x,DevOps tooling for Vert.x applications
+Chathura,ealth Information Systems Programme,DHIS - Tracker longitudinal Charting
+Pralay Ramteke,penMRS,DHISReport DHIS2 WebAPI
+penguinRaider,he Linux Foundation,Diagnose my ceph cluster
+OmarAmin,DE,digiKam automatic Red Eyes detection and correction
+Swati,DE,DigiKam MySQL/MariaDB Database Support
+Riddhish Bhalodia,ython Software Foundation,DIPY: Automatic Denoising and Robust Brain Extraction
+ghoshbishakh,ython Software Foundation,DIPY: Developing a new DIPY website with interactive features
+RobinKo, project for statistical computing,Discovr: Streamlining statistical data analysis
+Alberto C.,he Linux Foundation,Disk Removal Safety Utility for Ceph
+Devansh T Shah,ortland State University,Displaying SUBSURFACE features in the virtual world using NASA's WorldWind
+Borja,eam Community,Distributed Intermediate Tree Elimination in Lasp
+Asantha Thilina,SO2,Document Based NoSQL Support for  WSO2 Identity Server Database
+mortenpi,he Julia Language,Documentation tools for Julia
+Chaitanya,erkman Center for Internet and Society,Dotplot Project Proposal
+Felix Mulder,cala,Dottydoc
+Krish,ozilla,Download app assets at runtime
+abhivinj,CExtractor Development,Downloading subtitles from various Internet TV services.
+Samuel Richardson,Boss Community,Drools Rules in Minecraft
+Vijay Nandwani,rupal,Drupal 8 media solution module
+WinterGrascph,cummVM,Dungeon Master
+Rishabh Garg,CExtractor Development,"DVD Subtitles, CEA-708 completion and Example programs"
+Yan Xiao,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Dynamic Network Analysis in Rogas
+Ambroise Moreau,penCV,Dynamic structured light in openCV
+bhargavvader,umFOCUS,Dynamic Topic Models - Gensim
+Asco,reifunk,DynaPoint - A dynamic access point validator and creator for OpenWrt/LEDE
+Nikita,igmah,Easier Project Model Management
+Jensen Jiang,lone Foundation,eBook Content Export
+rnavagamuwa,clipse Foundation,Eclipse CHE: Pair programming with Eclipse Che Cloud IDE
+Martin Kloesch,clipse Foundation,Eclipse EASE Jupyter Kernels
+addiittya,WASP Foundation,Educational Plugin for Seraphimdroid
+Alexander Bokov,penCV,Efficient dense optical flow
+Serhii Beliablia,EAMMATES @ National University of Singapore,Email Customizer and Rich-text support
+fraruca,clipse Foundation,EMF Forms goes AngularJS: A web-based editor for UI schemata
+hgabaldon,clipse Foundation,EMF Forms goes AngularJS: Backend integration with OpenAPI
+abhishekp,iquid Galaxy Project,Enabling Cesium for Liquid Galaxy
+CrisCristescu,he LLVM Compiler Infrastructure,Enabling llvm’s self-hosted modules builds using libstdc++
+Matthias Reisinger,he Julia Language,Enabling Polyhedral Optimizations in Julia
+vear91,eph,End-to-end Performance Visualization
+jooolia,ational Resource for Network Biology (NRNB),Enhance vignettes and plugin use for R package RCy3 for network manipulation using Cytoscape
+Ana,penSUSE,Enhance visitor experience of OSEM
+Muhammad Omer Saeed,RISM Model Checker,Enhanced Graph Plotting and General GUI Improvements in Prism
+Ganindu,RISM Model Checker,Enhanced Strategy Functionality for PRISM
+Peixuan Ding,itHub,Enhanced User Management for GitHub Classroom
+cyhsutw,itHub,Enhancements for GitHub Classroom
+suheb,lassical Language Toolkit,Enhancements in the CLTK webapp
+Harshit Dwivedi,OSSASIA,Enhancements to the FOSSAsia Open Event Android App
+ankit_m,omputational Science and Engineering at TU Wien,Enhancing Language Learning using Mind the Word
+aviaryan,OSSASIA,Enhancing Open Event Server
+Misgana,SO2,Ensemble Methods Support for WSO2 Machine Learner
+sugakandrey,cala,ENSIME Graphocalypse
+Ilya Zakharov,he Linux Foundation,Environment model specifications for more bugs to reveal
+Yuanxun,reeBSD,Ethernet Ring Protection Switching
+Erick Guan,iscourse,Eventhooks for Discourse
+Nicolas Del Piano,RISM Model Checker,Exact Solution Methods
+gjorgenson,age Mathematical Software System,Expand the generic algebraic curve functionality in Sage
+ananyo,ublic Lab,Expanded Q & A System for Publiclab.org
+chanakya_vc,eagleBoard.org,"Exposing The PRU as an I2C,SPI,UART device"
+JPenington,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Extempore - Live coding with simulation codes
+nampi,pen Source Robotics Foundation,Extend communication outside the LAN
+amtj,pen Source Robotics Foundation,Extend communication outside the LAN
+christopherZ,RISM Model Checker,Extended support for mean-payoff properties
+Jouni Pentikäinen,DE,Extending animation features in Krita
+Zhaoyuan Zoe Xi,ational Resource for Network Biology (NRNB),Extending Cytoscape.js: Addition of Clustering Algorithms
+Anirudh Anand,WASP Foundation,Extending language support and adding OWASP Top 10 challenges to Container Engine
+Tara,age Mathematical Software System,Extending Matroid Theory functionality
+kshitij10496,ymPy,Extending solveset
+afromherz,ava Pathfinder Team,"Extending SPF with handling of symbolic arrays, and implementing a replay module"
+VicentiuM,abLua,Extending the online tutorial of Céu with Emscripten and SDL
+Anguelos,penCV,Extending the text module with deep Word-spotting CNN
+Karan Desai,ARDIS-SN,Extensive Test Suite for TARDIS
+Alexandru Somai,enkins Project,External Workspace Manager Plugin
+benzrf,elluloid,Extract ECell
+RobertR,atrobat,Feature Completeness (Scratch)
+Tudor Coman,map Security Scanner,Feature Creeper/Bug Wrangler
+tremblerz,map Security Scanner,Feature creeping and Bug wrangling
+Sachin S Kamath,edora Project,Fedora CommOps - Statistics Automation and Improvements
+sdolganov,Fmpeg,FFv1 P frame support
+Rasanjana,penMRS,FHIR Swagger Document generator and enhancements
+izgzhen,ozilla,File Support
+Teemperor,he LLVM Compiler Infrastructure,Finding and analysing copy-pasted code with clang
+meta-coder,pache Software Foundation,Fineract: Implement integration for Unified Payments Interface
+Pierre Laperdrix,he Tor Project,Fingerprint Central
+Blaine,ava Pathfinder Team,Fingerprinting for Programs
+Wastack,ibreOffice,Finish Firebird driver integration
+vovapolu,cala,Flexible Fast Parser Combinators
+Illedran,SGeo - The Open Source Geospatial Foundation,Flow Algorithms for pgRouting
+koldav,DE,Fluent graphics across every tile level in Marble's OSM vector map
+darkrai,"BDyn, Department of Aerospace Science and Technology at Politecnico di Milano",FMI model exchange and co-simulation standard
+Sergej Proskurin,he Honeynet Project,Foundations for DRAKVUF on ARM
+Giacomo Dabisias,pen Detection,Framework design and library maintenance
+marksurnin,reen Navigation,Front end rethink
+oddcoder,adare,Function argument detection
+Saurabh7,hogun Machine Learning Toolbox,Fundamental ML: The usual suspects
+Sulley,he Wine Project,Further work on the Visual C++ iostream library
+Sab,imVideos.us,FX2 firmware support for FTDI emulation
+Tharindu Munasinghe,ustainable Computing Research Group ( SCoRe ),G-Clouds
+Anton Gabov,Boss Community,Gabov Anton. Smart HTTP/2-based protocol for Infinispan
+Sparsh Paliwal,nclusive Design Institute,Game for First Discovery of Preferences
+Megh Parikh,NOME,Games: Add gamepad support
+Ricard Gascons,NOME,Games: Support more game formats
+Quora,etaBrainz Foundation,Gamification of submission system
+Leopoldo Catania, project for statistical computing,GAS package
+Prasad Ghangal,NU Project,GCC - Development of GIMPLE Front End
+erikvarga,NU Project,GCC - Further work on addressing mode selection
+Ayush Goel,NU Project,GCC - Replace Libiberty with Gnulib
+christian_f,pen Bioinformatics Foundation,GeneNetwork Genome Browser
+Caio Souza,cilab Enterprises,General Graphics Improvements
+Barbara Lócsi,NU Octave,Generalised eigenvalue problem
+JinJin Lin,ioJS,Generic protein expression view for Human Body
+aeroniero,entoo Foundation,Gentoo Keys Improvements and the new MetaManifest system
+Abhinav Mehta,ed Hen Lab,Gesture Recognition Using Machine Learning
+mozin,ed Hen Lab,Gesture recognition using multimodal deep learning
+Soumitra Agarwal,ed Hen Lab,"Gestures, Machine learning and other things"
+schloerke, project for statistical computing,"ggduo: pairs plots for multiple regression, cca, time series"
+ntrstd,ortland State University,GIFScript: A tool for scripting technical GIF animations
+Vikram Ahuja,ugar Labs,Git Backend
+gnarula,NOME,GNOME Music ownCloud support
+hoernchen,nss-sdr,GNSS-SDR port to android
+sravan953,2PSP.org,GoPro Broadcasting Using P2PSP On Android
+domt4,omebrew,GPG Verification in Homebrew
+ParamHanji,RL-CAD,GPGPU Support for Boolean Evaluation Used in Ray Tracing
+Simon Pfreundschuh,ERN SFT,GPU-accelerated Deep Neural Networks in TMVA
+ghost_rider,reeBSD,Grant-Table User-Space Device
+Anuj Khandelwal,"enes, Genomes and Variation",Graphical workflow editor for eHive using Blockly
+Thunderboltsid,RPC,GRPC Python compatibility support
+Gaurav Dhingra,ymPy,GSoC 2016 Application Gaurav Dhingra: Group Theory
+Shekhar Prasad Rajak,ymPy,GSoC 2016 Application Shekhar Prasad Rajak: Solvers - Completing Solveset
+Chiara Segala,NU Octave,GSoC 2016 EXPONENTIAL INTEGRATORS
+Yilin Li,he syslog-ng project,GSoC 2016 Proposal: WebSocket for syslog ng (Yilin Li)
+FrancescoFaccio,NU Octave,GSoC ode15s project proposal
+Vaibhav Raj Gupta,oston University / XIA,Gsoc Proposal - Accelerating LPM with Poptrie
+zeus,OSSASIA,GSOC proposal for Timeline and Search Navigation for loklak.net
+Beth2,lobal Alliance for Genomics & Health,GSoC Student Proposal for SMART/FHIR and GA4GH
+Roman Schulte,ational Resource for Network Biology (NRNB),GSoC: JSBML Validation System
+Jaume,ambit - Software Tools for Game Theory,GTE: the Future Tool in Game Theory
+nisargshah95,olibriOS,GUI-based FTP client for KolibriOS
+mertkahyaoglu,itHub,GUI/Administrative interface for Jekyll
+Abhinav Shukla,CExtractor Development,Hardsubx - Extraction of burned in subtitles from videos
+AbdulRauf,PAC,Hardware-accelerated media decoding on Android
+Austin,Boss Community,Hawkular-agent For Vert.x
+Alex Teaca,reeBSD,HD Audio device model in userspace for bhyve
+mincongh,Boss Community,Hibernate Search: JSR 352 batch job for re-indexing entities
+Sameer Sonawane,tony Brook University Biomedical Informatics,High performance Data Cube materialization and querying using Apache Spark
+yuri,reeBSD,High-performance P4 software switch using netmap
+vmaffione,reeBSD,High-performance TCP/IP networking for bhyve VMs using netmap passthrough
+stancium,NOME,Horizontal Map Wrapping In Libchamplain
+Parsa Amini,he STE||AR Group,HPX Debugger
+wintersw,atrobat,HTML5 Player: Compatibility/Feature Completeness (Scratch)
+Teabeans,atrobat,HTML5 Player: Rendering + Physics
+Venkat,SO2,HTTP Load Balancer On Top Of WSO2 Gateway
+Wei Tang,he Julia Language,"HTTP/2 Implementations for HTTPServer.jl, Requests.jl, and Mux.jl"
+Yijin,EAMMATES @ National University of Singapore,HubTurbo -- Usability Hero
+Moisés Lodeiro,hysical Web Project,IBRI - Interactive Beacon Rescue Interface
+Anwar N,ndic Project,IBus-Braille Enhancement
+ales.saska,omputational Biology @ University of Nebraska-Lincoln,Idea 1 - Ales Saska
+Znbiz,omputational Biology @ University of Nebraska-Lincoln,Idea 1: Javascript/WebGL Component For Interactive Visualization Of Large-Scale Network Graphs.
+mronian,he Julia Language,Image Features and Exposure Correction using Images.jl
+Olga Vorokh,penAstronomy,Image processing and source detection in Gammapy
+JoeyAndres,oodle,Image Resize/Crop/Rotate Proposal.
+Asier Erramuzpe,nternational Neuroinformatics Coordinating Facility,Image Search for Brain Maps
+Aalekh Nigam,he STE||AR Group,Implement a Map/Reduce Framework
+sivsushruth,eam Community,Implement an elixir backend for indexing and extending the database
+kamidi_preetham,oletta Project,Implement Auto-complete for Soletta Dev-App
+Aaryaman Vasishta,he Wine Project,Implement basic rendering for Direct3D Retained mode
+Amr Mohamed,NU Octave,Implement boolean operations on polygons
+Tkachov,cummVM,Implement cloud storages support in ScummVM
+hrishikesh,he NetBSD Foundation,Implement Ext4fs support in ReadOnly mode
+Fjodor Vershinin,clipse Foundation,Implement filesystem sync in Eclipse Flux
+Vladimir,oletta Project,Implement go bindings for soletta
+adityadivekar,NU Mailman,Implement module to process ARC headers
+nishanthvijayan,OSDEM VZW,Implement overall change tracking in OSEM
+Zé Vinícius,penAstronomy,Implement PSF photometry for fitting several overlapping objects at once
+varunnaganathan,ozilla,Implement RFC7512 PKCS#11 URI support and system integration
+Dangyi Liu,uby,Implement UJS using native JavaScript
+Shengyu Zhang,NU Project,Implement xattr Support of Hurd Project
+AlexP11223,ibreOffice,Implement Zoner Draw import filter
+Sankepally Rohith Reddy,SGeo - The Open Source Geospatial Foundation,Implementation of a framework which supports addition of contraction techniques for pgRouting.
+Ipsita,nternational Neuroinformatics Coordinating Facility,Implementation of a HDF5 export/import to EEGBase
+kaichogami,ython Software Foundation,Implementation of a signal processing pipeline to chain signal processing and machine-learning estimators.
+Jess Smith,cala,Implementation of Coroutine-­Based Utilities
+kshi219,2PSP.org,Implementation of Endpoint Masquerading Set of Rules
+shubhamtibra,ymPy,Implementation of Holonomic Functions in SymPy
+ABelov, project for statistical computing,Implementation of hyperspectral unmixing algorithms for unimixR package
+anurag_rai,imacode,Implementation of Module on Logic (Chapters 7 – 9) for 4th Edition
+tex,eam Community,Implementation of Real-time Statistics in Zotonic
+Yuqi Li, project for statistical computing,Implementation of Recurrent Models and Examples in R for MXNet
+Sampad Kumar Saha,ymPy,Implementation of Singularity  Functions to solve Beam Bending problems
+Joel Fuentes,ERN SFT,Implementation of task-based transport for GeantV
+Enric Juan,nss-sdr,Implementation of the BeiDou signal tracking block for the GNSS-SDR Project
+Suyash,erformance Co-Pilot,Implementation of the PCP instrumentation API in golang
+itegulov,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Implementation of theorem prover based on Skeptik's data structures and Conflict Resolution algorithm
+pandusonu,NOME,Implementation of week view in GNOME Calendar
+sczyh30,ert.x,Implementation of “blueprint” Vert.x applications and detailed documents
+Lukas Stockner,lender Foundation,Implementing a Denoising Filter in Cycles
+Omkar Reddy,pache Software Foundation,Implementing a Python Utility Library for accessing PO.DAAC NASA JPL
+luyikei,ideoLAN / VLMC Project,Implementing a sandboxed rendering engine and a remote UI
+TDWilkinson,penAstronomy,Implementing AIA response function in Sunpy
+Nishant Nikhil,ymPy,Implementing Finite Fields and Set module in SymEngine
+sahmed95,ython Software Foundation,Implementing Intra Voxel Incoherent Motion (IVIM)  techniques in Dipy
+Azorpid,ibreOffice,Implementing legacy SAX  parser Interface with FastParser
+avg206,EMU,Implementing one more absolute coordinates device for QEMU – a serial tablet with behaviour like usb-tablet we use to get mouse integration
+g_unis,eam Community,Implementing op-based CRDTs in Lasp
+Gabriel_unname,reifunk,Implementing Pop-Routing
+creativcoder,ozilla,Implementing Service Worker Infrastructure in Servo Browser Engine
+Tharindu Ranathunga,ustainable Computing Research Group ( SCoRe ),Implementing the tracker front end
+Rishabh Saxena,penSUSE,Implementing Ticket payment feature for OSEM
+Niroshan,SGeo - The Open Source Geospatial Foundation,Implementing WPS for Geopaparazzi field data collection tool using ZOO-Project: Simplifying integration of field data and GIS
+Saurabh,iviCRM,Import from Google Sheets
+MridulS,ational Resource for Network Biology (NRNB),Import graphs in multiple formats and Cytoscape files into GraphSpace
+dokato,nternational Neuroinformatics Coordinating Facility,Importing and exporting simulator-independent model-descriptions with the Brian simulator
+Manan Wason,OSSASIA,Improve and enhance the Open Event system
+Nanduni,DE,Improve categorization and search on Inqlude web site
+Ani,eph,Improve Ceph’s Python Infrastructure
+Gabriel Gatu,eam Community,Improve ejabberd configuration and extensibility with configuration DSL
+Dhaval Kapil,abLua,Improve elasticsearch-lua tests and builds
+Anuj Garg,Boss Community,Improve existing Android client of Hawkular
+Anupam Das,uildmLearn,Improve existing BuildmLearn Toolkit app and add new templates to it.
+Shalom Rachapudi David,penSUSE,Improve One-Click Installer
+Dinanjana,SO2,Improve production system debugging capabilities of WSO2 ESB (ESB Flight Recorder)
+Vardan Mikayelyan,eactOS,Improve ReactOS USB stack.
+Pranav Ganorkar,NOME,Improve Search Functionality in GNOME Logs
+psincraian,Fmpeg,Improve selftest coverage
+Siddhant085,OSSASIA,Improve sTeam
+Niranjan R,OSSASIA,Improve the Open Event Organizer Server and implement missing features
+MNave,pen Bioinformatics Foundation,Improve the prediction for RiPP clusters
+msfernandes,penSUSE,Improve the UI of Portus
+Akarshit Wal,he Center for Connected Learning and Computer-Based Modeling,Improve the usability of NetLogo IDE for Desktop
+Rares-Mihail Visalom,NOME,Improve the user experience for new and existing users
+Ajinkya Wavare,OSSASIA,Improve tooling for sTeam collaboration platform
+ubap,ibreOffice,Improve user experience with Table Styles
+João Reys Santos,oomla!,Improved multi-lingual content management‏
+Zabot,penStreetMap,Improved Shaders for OSM2World
+wlong799,anadian Centre for Computational Genomics (C3G) - Montreal node,Improved Tools for Genetic Diversity Modelling
+VladX,penCV,Improvement of the dense optical flow algorithm
+ftsamis,ARDIS-SN,Improvement of the TARDIS configuration system
+groman,he LLVM Compiler Infrastructure,Improvement of vectorization process in Polly
+João Araújo,lender Foundation,Improvements for Bezier Curves
+ciechowoj, Foundation,Improvements for dstep.
+HarshV,erkman Center for Internet and Society,Improvements for Question Tool
+vivekk,TEMS Project,Improvements in the RTEMS Trace Framework
+hugomg,SCEND,Improvements to the Conditional Modeling Syntax
+Punyaslok Pattnaik,penAstronomy,Improvements to the SunPy Database
+Abdelrhman Ahmed,ozilla,Improving and expanding the JavaScript XMPP Implementation
+Chirag Arora,omputational Science and Engineering at TU Wien,Improving and Porting Carbon Footprint for Google Maps to Safari and Firefox
+pjoshi,lone Foundation,Improving collective.easyforms
+rhnvrm,pache Software Foundation,Improving Discussion Threads and UI/UX of Apache Allura
+sim590,ebian Project,Improving distributed and secure communication using free software
+canihavesomecoffee,CExtractor Development,Improving GitHub CI
+AwesomeMike,SCEND,Improving GUI and functions of Graphical flowsheet editor
+Soothsilver,ava Pathfinder Team,Improving JPF Inspector
+Fabian Freyer,reeBSD,Improving libvirt support for bhyve
+cryptomanic, project for statistical computing,Improving markovchain R package
+dufferZafar,he Honeynet Project,Improving mitmproxy
+hpfmn,useScore,Improving playback in MuseScore
+abstatic,anadian Centre for Computational Genomics (C3G) - Montreal node,Improving SegAnnDB genomic segmentation app
+Lethe,ikimedia Foundation,Improving static analysis tools for MediaWiki
+rohangoel96,BioPortal for Cancer Genomics,Improving the clinical timeline of cBioPortal's patient view
+lynnlyc,he Honeynet Project,Improving the coverage of DroidBot
+Shubham Rajput,oomla!,Improving the menu item workflow in Joomla
+MattG,abLua,Improving the Quality of Error Messages in PEG Parsers
+pkofod,umFOCUS,Improving the state of Optim.jl
+Rishubh Jain,cilab Enterprises,Improving UI-Elements
+PranavJain,ebian Project,"Improving voice, video and chat communication with free software"
+JonathanJson,ebian Project,"Improving voice, video and chat communication with free software"
+Mesut Can Gurle,ebian Project,"Improving voice, video and chat communication with free software"
+udit043,ebian Project,"Improving voice, video and chat communication with free software"
+Metin Can Siper,ational Resource for Network Biology (NRNB),Improving Web Based SBGN Editor SBGNViz.js
+Nik Vaessen,ebian Project,"Improving WebRTC, Apache Camel and Jitsi"
+jkinnison,pache Software Foundation,In-Situ Simulation Management and Analysis Using Apache Airavata
+robertgc,etfilter project,Increasing the adoption of nftables by finishing the iptables-translate tool
+kushalsingh007,hapel,Incremental Compilation
+Pranit Bauva,it,Incremental Rewrite of Git Bisect
+Reynaud Nicolas,ebian Project,Indexation over a distributed network
+Peng_Xu,bpediaspotlight,Inferring infobox template class mappings from Wikipedia + Wikidata
+Balasankar C,ndic Project,Inflection aware spell checker for Malayalam
+Stefan Florea,"iomedical Informatics, Emory University",Information Visualizations using Datascope
+eszka,ibreOffice,Infrastructure for defining toolbars via .ui (Glade) files
+Tin Duong,he Honeynet Project,Integrate DroidBOT into Cuckoo Sandbox
+ajalan065,rupal,Integrate Google Cloud Vision API to Drupal 8
+diadatp,owRISC,Integrate more open-source IP for lowRISC on FPGAs
+Tushar Dubey,anadian Centre for Computational Genomics (C3G) - Montreal node,Integrate structural variants calls in the tumor_pair pipeline from MUGQIC Pipeline
+icodemachine,opyleft Games,Integrated Development Environment for PySoy
+merci mukwe,iviCRM,Integrating CiviCRM with Zapier
+MohmmadAyman,pen Source Robotics Foundation,integrating gazebojs with gzweb into gazebow.
+Attila Bagoly,ERN SFT,Integrating Machine Learning in Jupyter Notebooks
+jlicht,NU Project,Integrating npm into the Guix ecosystem
+wmaroy,bpediaspotlight,Integrating RML in the Dbpedia extraction framework
+woodruffw,omebrew,Integrating ruby-macho fully into Homebrew and removing external dependencies on install_name_tool/otool entirely
+Mukarram,nitex/GramLab,Integration of Classic IDE and Project-oriented IDE
+pambot,BioPortal for Cancer Genomics,Integration of Proteomics Data to cBioPortal
+gdphys,ERN SFT,Integration of Spark parallelisation in TMVA
+JanIdziak, project for statistical computing,Integration of Text Mining and Topic Modeling Tools
+Abhishek Tiwari,SO2,Integration Test Framework for WSO2 Dockerfiles
+shubhamkmr,omputational Biology @ University of Nebraska-Lincoln,Interactive Platform for Statistical Computing
+mgtlake,he Julia Language,Interactive Tutorial System for Julia and Juno
+krassowski,pen Genome Informatics,Interactive visualisation framework for genome mutations in gene and protein networks
+tramy,ational Resource for Network Biology (NRNB),Interconversion between the systems biology modeling formats SBML and BioPAX
+Kaito,ational Resource for Network Biology (NRNB),Interconvertible Layout program for CellDesigner
+Daniel H,clipse Foundation,Interface to send additional requested data for Eclipse Automated Error Reporting Initiative
+jiteshjha,ublic Lab,Internationalization of Publiclab.org
+Vivek Pandya,he LLVM Compiler Infrastructure,Interprocedural Register Allocation in LLVM
+avyavkumar,SGeo - The Open Source Geospatial Foundation,"Introduce Triangulated Surface, Polyhedral Surface and Triangle API in the OGRGeometry core and implement their support in OGR drivers for GDAL"
+frankier,he Apertium Project,Investigation of new ways to combining Constraint-grammar and apertium-tagger & a new averaged perception based tagger
+tharidu,ustainable Computing Research Group ( SCoRe ),IoT middle-ware platform
+Thilanka Munasinghe,IT Media Lab,IoT: Raspberry Pi Integration with MIT App Inventor
+skbly7,erkman Center for Internet and Society,IPFS friendly & distributed version of Amber
+Prabhjyot Singh Sodhi,map Security Scanner,IPv6 OS detection
+Luka G.,SGeo - The Open Source Geospatial Foundation,istSOS Web API
+Karan Saxena,ython Software Foundation,Italian Mars Society (IMS) Proposal: Improving the Step Recognition Algorithm for V-ERAS
+Aakash Rajpal,ython Software Foundation,ITALIAN MARS SOCIETY: IMPLEMENTATION OF AN INTERACTIVE HEADS UP DISPLAY FOR OCULUS RIFT FOR THE V-ERAS SIMULATION ENVIRONMENT
+Shridhar Mishra,ython Software Foundation,Italian Mars Society:Integration of Unity Game scene with the existing pyKinect and emulate a moving skeleton based of the movements tracked by the Kinect sensors.
+Upekshe Jayasekera,uby,Java ByteBuffer Support for Nio4r
+Octarine,ava Pathfinder Team,Java PathFinder for Android Devices
+Piotr Moczurad,cala,Java source code to Scala.js IR compiler
+Hovakim Grabski,ational Resource for Network Biology (NRNB),"Java support for Deviser, a code generation system for SBML libraries"
+djkevincr,pache Software Foundation,JCache DataStore Implementation for Apache Gora
+AbrahmAB,ugar Labs,Journal Rethink : Abhijit
+connor,Query Foundation,jQuery Learning Center
+cricri,pache Software Foundation,JSONiq Support to Apache VXQUERY
+IvanLakhtanov,DE,Julia Backend for Cantor
+Mirage,clipse Foundation,JUnit and TestNG Test Runner Plugin for Eclipse Che
+Vithulan,he syslog-ng project,Kafka source for syslog-ng
+kupy,DE,"KDE Edu, LabPlot- Project: theme manager for plots"
+g33kyaditya,DE,KDE Now
+joejoshw,DE,Kdenlive: Windows and OSX Port
+PatrickElectric,DE,KDevelop Integration with Arduino and embedded development
+Aetf,DE,KDevelop: LLDB Support
+erdmanae,entoo Foundation,kernelconfig
+Tomasito665,ixxx DJ Software,Key mapping GUI
+Kuldeep Singh,ython Software Foundation,Kivy: Plyer
+udiboy1209,ython Software Foundation,Kivy: Tiled Integration with KivEnt
+DenisKarpenko,olibriOS,KolibriOS. Development of TLS/SSL library
+polaris,DE,KStars Lite
+Raphael Cojocaru,DE,KStars on Windows
+mgokirmak,he Apertium Project,Kurmanji (Kurdish)-English MT
+AnuMittal,DE,LabPlot: Adding histogram and bar chart.
+imSreenadh,ndic Project,Language model and Acoustic model for Malayalam language for speech recognition system in CMU Sphinx
+Naiyun Zhou,tony Brook University Biomedical Informatics,Large scale image viewing/editing module in 3D Slicer
+Severin,lender Foundation,Layer Manager
+ayshtmr,apian Search Engine Library,Learning to Rank Stabilisation
+den4ix,entoo Foundation,libebuild
+Petru Gurita,NU Project,Liberty Eiffel meets Windows
+jerin,ndic Project,LibIndic Improvements
+Dashhh,reeBSD,libnv improvements
+jmigual,ixxx DJ Software,Library Layout Redesign
+OrkoHunter,imelab Technologies Ltd.,Library of Time Series methods
+davidhas,erkman Center for Internet and Society,LibraryBox iOS App
+Feragon,RL-CAD,LibreCAD 3 Scriptable User Interface Creation
+Gaganjyot,RL-CAD,LibreCAD V3 Beziers and File I/O Support
+Akshay Narasimha,cGill Space Institute,Lightcurve modelling with Icarus
+Pubudu Dodangoda,pen Genome Informatics,Lightweight chat plugin for the JBrowse genome browser
+starrynte,NU Project,Lilypond - Allow spanners to cross voices
+Jaipal,he Apertium Project,Lint For Apertium
+Cristina-Gabriela Moraru,he Linux Foundation,Linux Kernel Backports
+Devi Krishnan,ikimedia Foundation,List Of Contributors
+armalcolite,etaBrainz Foundation,ListenBrainz: A submission API compatible with Last.fm scrobblers
+andrew wells,he Linux Foundation,LLVMLinux: Static Analysis
+Omid Rezvani,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Local Community Detection Search Using a Conceptual View
+Sudheesh Singanamalla,OSSASIA,Loklak apps/microservices to the open tweet platform loklak.net and IoT integrations using the loklak backend
+Damini Satya,OSSASIA,Loklak: IoT prototypes and a loklak backend systems
+Mudit Jain,TEMS Project,Low Level Peripherals & SD Card Support for Raspberry Pi
+Mikhail Kraev,he Linux Foundation,LSB Navigator
+tctara,DE,LUKS & LVM support for Calamares & KDE Partition Manager
+Vincent Dumont,map Security Scanner,Mac OS X platform developer
+Timothy Sum,WASP Foundation,Machine Learning Trend Monitoring Analysis Engine for AppSensor
+Uliana Sentsova,he Apertium Project,Machine Translation for Sicilian-Spanish Language Pair
+Irshad,ndic Project,Machine Transliteration
+allenzhao,uby,Maintain Bundler: a very popular and widely-used open source project
+Boggs,uby,Maintain Bundler: a very popular and widely-used open source project
+Acharya, project for statistical computing,Major Improvements to the factorAnalytics package
+vivekanand,edora Project,Make pagure adaptable for pkgs.fedoraproject.org
+nishithshah2211,ibvirt,Making virsh more bash like
+yatna,"ysters, an Anita Borg Institute Community",Malaria Prevention Application Proposal (Android)
+Chris Medrela,umFOCUS,Manage workflow for Software/Data Carpentry instructor training
+Balázs Dukai, project for statistical computing,Managing and visualizing movement data with PostGIS and R
+haonguyen,pache Software Foundation,Mapping between the GeoTIFF metadata to ISO 19115
+Kbluteau, project for statistical computing,Markov Switching GARCH models (MSGARCH)
+Patrick Avery,pen Chemistry,Materials Science Advances in Avogadro 2
+Jai Agarwal,uildmLearn,mConference Framework
+jdetle,ython Software Foundation,MDAnalysis: Dimension Reduction
+fiona,ython Software Foundation,MDAnalysis: Introducing capabilities for analysing umbrella sampling simulations
+Dhruv Khattar,cilab Enterprises,Memory Safety
+liscju,ython Software Foundation,Mercurial: Allow largefiles to be at a different location
+Pulkit Goyal,ython Software Foundation,Mercurial: Moving Towards Python3
+Anirudh Dahiya,NU Mailman,Message Queue based Archiver
+Nikhil Pawar,ifos Initiative,Mifos Credit bureau Integration
+Amrutha S,"ysters, an Anita Borg Institute Community",Migrating Volunteer Management System to Class based views and Search Engine Implementation
+Rohan Katyal,omputational Science and Engineering at TU Wien,Mind The Word
+Ayush Shah,DE,Minuet Mobile
+Kseniia,IT Media Lab,Mit App Inventor Android Research Tasks
+Medha Chakravarthula,"ysters, an Anita Borg Institute Community",Mobile App Control Center
+Abdul Fatir,omputational Biology @ University of Nebraska-Lincoln,Mobile Based Blood Analysis
+Daniel Carlson,ifos Initiative,Mobile Money Integration in West and Central Africa.
+Andrei Macavei,NOME,Modernising GNOME Keysign
+Abhay Chaturvedi,nternational Neuroinformatics Coordinating Facility,Modifying the current neuroshare to hdf5 converter to use the NIX format instead.
+Tahir Ramzan,odSecurity,ModSecurity Connector for Apache
+m2n,odSecurity,ModSecurity Connector for Node.js
+Akhil Koul,odSecurity,ModSecurityv3 IDS connector
+klui,age Mathematical Software System,Modular Abelian Variety
+Jazzpilz,"rban Energy Systems Laboratory, Empa",Modular Energy Hub Modelling Framework
+Sumit Vohra,nternational Neuroinformatics Coordinating Facility,Modular Machine Learning and Classification Toolbox for ImageJ
+Ananya B,pen Ephys,Module to control LED driver for Optogenetic Stimulation
+Rebecca Lauren Miller,age Mathematical Software System,Moduli Space of Dynamical Systems
+Jan-Tarek Butt,reifunk,Monitoring and quality assurance of open wifi networks: the client view
+haleyj, project for statistical computing,Mosaicplots in the ggplot2 framework: ggmosaic
+DSM_,Fmpeg,Motion Interpolation Filter
+zydu,itrivr,Motion-based Retrieval: Feature Extraction
+AlexFJW,penKeychain (OpenPGP for Android),Move from Passwords to App Lock Mechanism
+Aditya Prakash,uby,Move the Bundler API back into RubyGems.org
+paulmorris,ozilla,Mozilla Calendar – Event in a Tab
+Arun,ozilla,Mozilla Investigator(MIG): Auditd integration
+Mohammad Umair,Fmpeg,MPEG-4 Audio Lossless Coding (ALS) encoder implementation
+Pranith Kumar,EMU,MTTCG Memory Consistency
+Cartucho,penCV,"Multi-language OpenCV Tutorials in Python, C++ and Java"
+Yun-Chih Chen,trace,Multi-platform continuous tests infrastructure
+Nelson,"iomedical Informatics, Emory University",Multi-resolution Analysis of Pathology Data with Convolutional Neural Networks (CNNs)
+tianwei37,lender Foundation,Multi-view Reconstruction with Witness Camera for Blender
+Dmitry Sorokin,ERN SFT,Multistep methods for integrating trajectory in field
+ibestvina,ational Resource for Network Biology (NRNB),Multithread Centiscape (#55)
+Hemant Kasat,ugar Labs,Music Widgets
+meetshah1995,ython Software Foundation,MyHDL  : RISC-V Implementation
+Ravi Jain,ython Software Foundation,MyHDL : GEMAC Implementation
+srivatsan_r,ython Software Foundation,MyHDL : HDMI Source / Sink Modules + RISC-V Implementation
+Pranjal Agrawal,ython Software Foundation,MyHDL : Leros tiny processor
+mkatsimpris,ython Software Foundation,MyHDL: JPEG Encoder Frontend
+Vikram Raigur,ython Software Foundation,MyHDL:JPEG Encoder Backend
+gabry501,SGeo - The Open Source Geospatial Foundation,NASA Web World Wind - Multidimensional Visualization Tool for Environmental Variables
+obiajulu,he Julia Language,Native Julia solvers for ordinary differential equations and  improvements to IVP testing suite
+leonardojc,cilab Enterprises,Native Scilab Kernel for Jupyter
+Prateek_Goel,itrivr,Natural Language Query Interface
+Alexandru Pandelea,NOME,Nautilus: Batch renaming
+Razvan Chitu,NOME,Nautilus: Integrate file-roller and compressed file management
+Irene,"iomedical Informatics, Emory University",Near Duplicate Detection in Medical Image Archives Proposal
+arkap,reifunk,netifd extension: external device handlers
+Fabien Siron,trace,Netlink socket parsers
+Bang,lpack: a scalable C++ machine learning library,Neuroevolution Algorithms Implementation
+Minh,DE,Neverland Theme Builder project
+kvld,he Apertium Project,New Belarusian-Russian language pair
+Jiri Horner,penCV,New camera model and parallel processing for stitching pipeline
+dphuang,erkman Center for Internet and Society,New Data Integration Platform
+prastut,erkman Center for Internet and Society,New onboarding experience to enhance UX for Teem especially for newcomers.
+Sanuj Sharma,hogun Machine Learning Toolbox,New Parameter Framework and Plugin Based Architecture for Shogun
+vikasnt,ERN SFT,New Physics Model in Sixtrack package
+vicodin,lone Foundation,New Theme Pack
+Shruti Gullapuram,CExtractor Development,News Shot Classification and Analysis
+roboo,abLua,Next Generation of the LuaRocks test suite
+carlosfg,etfilter project,Nftables proposal:  missing features and library improvements
+luismurao, project for statistical computing,NicheToolbox: from getting biodiversity data to evaluating species distribution models in a friendly GUI environment.
+D.M.,ariaDB,NO PAD collations
+0mp,reeBSD,Non-BSM to BSM Conversion Tools
+Pradyut,pache Software Foundation,Notebooks for Weather Data Analytics
+maya,he NetBSD Foundation,NPF and blacklistd web interface
+Sergey,map Security Scanner,NSE Performance Improvement and SSH Support Implementation
+coderTrevor,eactOS,NTFS Driver Improvements for ReactOS
+Davarresc,pache Software Foundation,Nuxeo repository and Authority connector for Apache ManifoldCF
+SamuelLapointe,SGeo - The Open Source Geospatial Foundation,OGC protocols support within OL3-Google-Maps
+Zhao Junwang,eph,ON-THE-WIRE ENCRYPTION SUPPORT
+Shrumit Mehta,BioPortal for Cancer Genomics,Onco Query Language (OQL) editor
+Brendan Egan,SGeo - The Open Source Geospatial Foundation,One bus Away Quick start
+gjeet,RL-CAD,Online Geometry Viewer
+Rafal Kowalski,OSSASIA,Open Event Orga Server
+SaptakS,OSSASIA,Open Event Organizer Server Feature Enhancement
+championswimmer,OSSASIA,Open Event Web and Mobile App
+Khushboo Mandlecha,"rban Energy Systems Laboratory, Empa",Open source energy simulation database : using MEAN Stack
+Gnovi,OSSASIA,Open Source Science Experiments & Data Acquisition System  for Physics Education and Research with ExpEYES - Pocket Science Lab
+Aayush Arora,OSSASIA,Open-Event-Webapp
+jysi,cGill Space Institute,Open-Source Coding of Models of Microbial S-isotope Fractionation: Exploring Transdisciplinary Scientific Collaboration
+Milindu Sanoj Kumarage,ustainable Computing Research Group ( SCoRe ),OpenADS - On the fly insights from the elasticsearch data stream
+vludv,penCV,OpenCV dnn module enhancement
+Andrejs Jurčenoks,tony Brook University Biomedical Informatics,OpenHealth app development - Public health
+stephensturdevant,RPC,OpenLambda: RPC-Aware Storage
+AvijitGhosh82,penMRS,OpenMRS Android Client
+anastasijam,pache Software Foundation,OPENNLP-840 - Sentiment Analysis Project Proposal
+mateusjabour,pen Bioinformatics Foundation,OpenSNP
+gdyer,pen Bioinformatics Foundation,openSNP: Extending Quantified-Self Support in openSNP
+Vivek Rai,pen Bioinformatics Foundation,openSNP: Linking Phenotypes to SNPs in openSNP
+Neez,reifunk,OpenWrt - poWquty (poWer quality)
+Wenyan,nternational Neuroinformatics Coordinating Facility,Optimization of neural network simulator via parallelisation
+Daniil Leshchev,aneti,Optimize balancing speed by accounting for migration speed
+RB,uby,Optional types for Matz's Ruby Interpreter
+Gunel Jahangirova,ava Pathfinder Team,Oracle-Based Program Repair
+Primož Godec,range – Data Mining Fruitful & Fun,Orange Add-on: Educational Series
+sstanovnik,range – Data Mining Fruitful & Fun,Orange.data.Table to pandas migration
+amoghbl1,he Tor Project,Orfox
+sandyre,SGeo - The Open Source Geospatial Foundation,OSGeo GDAL DWG support
+Allan E. Gardner,edora Project,OSTree: Drop privileges for HTTP fetches
+Dmytro Trifonov,penMRS,Overhaul the User Management dashboard for ID Dashboard
+Kartik Maji,ulip Open Source Project,Overhauling Zulip website’s UX to handle large teams
+Vishnu Rao,penMRS,OWA App Store
+DarKnight--,WASP Foundation,OWASP OWTF - Health Monitor
+Pratik,WASP Foundation,OWASP ZSC - Shellcode for Windows and Code Obfuscation Modules
+imjalpreet,wnCloud,ownCloud App for metadata extraction from Images and Introducing Photo Calendar in Gallery
+Michael Grosser (stp),wnCloud,ownCloud Demo Improvements
+Nathan Vollmer,lender Foundation,P-BVH enhanced vertex painting
+Farhaan Bukhsh,edora Project,Pagure
+avengerf12,oreboot,Panic room - Take a deep breath
+pranavtbhat,he Julia Language,ParallelGraphs: A General Purpose Graph  Processing Library.
+Ezequiel Postan,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Parsers implementation and extension of proof compression algorithms from propositional to first-order logic
+Dehan de Croos,ealth Information Systems Programme,"Partial rendering of front-end, ReactJS based applications on JVM by using Nashorn engine"
+Sitaram Shelke,erformance Co-Pilot,PCP versions of console tools
+Akanksha Bodhankar,"ysters, an Anita Borg Institute Community",PCSA Web-App (FirstAide)
+Chamika,"ysters, an Anita Borg Institute Community",Peace Corps Safety App - iOS
+Rohan Doddaiah,"ysters, an Anita Borg Institute Community",PeaceCorps Safety App (Android)
+Peter Whidden,ERN SFT,Performance 3D Web Graphics with Interactive Features for JSRoot
+Utkarsh,ython Software Foundation,pgmpy: Hamiltonian Monte Carlo and No U Turn Sampler
+chrisittner,ython Software Foundation,pgmpy: Structure Learning from complete data
+Yashu Seth,ython Software Foundation,pgmpy: Support for Continuous Random Variables
+satwik77,he Monarch Initiative,PhenoPacket Scraper
+Rupinderjit Kaur,"ysters, an Anita Borg Institute Community",Photo Language Translator (PLT)
+Costin Giorgian,uildmLearn,Physics Simulations
+MarcGC,iquid Galaxy Project,PILT (Panoramic Interactive Live Tracker)
+tyagi-prashant,NOME,PKCS#11 certificate chooser
+rharish,DE,Plasma PublicTransport
+boj,RL-CAD,Plate Mode NURBS raytracing
+Eric Hung, project for statistical computing,plot.xts for Performance and Risk
+trtt,.Org Foundation,Plug the core-apitrace support for performance counters to qapitrace
+septen,pen Ephys,Plugin generation GUI with visual interface designer
+satyaki3794,he STE||AR Group,Plugin Mechanism for thread schedulers in HPX
+asutoshpalai,uby,Plugin system
+Chandra,obile Robot Programming Toolkit (MRPT),PnP Algorithms toolkit for MRPT
+Ralph Samer,atrobat,Pocket Code - Integrate S2C
+Utpal,he LLVM Compiler Infrastructure,Polly as an Analysis Pass in LLVM
+AbdealiJK,ikimedia Foundation,Port catimages.py to pywikibot-core
+Pradeep Sanjeewa,pache Software Foundation,Port core OS and a subset of the utilities to a new 32-bit microcontroller
+therealssj,rupal,Port Google Login Authenticator To Drupal 8
+magarcia,penSUSE,Port Jangouts from AngularJS 1.4
+Milos Bovan,rupal,Port Mailhandler to Drupal 8
+prasunanand,uby Science Foundation,Port Nmatrix to JRuby
+Rajdeep Kaur,DE,Porting activities in Qt version of GCompris.
+anchal29,rupal,Porting Comment alter module to Drupal 8
+Manolis,NU Project,Porting GuixSD to GNU/Hurd
+tnishinaga,he Linux Foundation,Porting mainline kernel to ARM Cortex-M7 microcontroller
+rahulmahadev,owRISC,Porting OPTEE to lowRISC
+henrix (Henrik Langer),eagleBoard.org,Porting the CTAG face2|4 multichannel soundcard drivers to BeagleBoard-X15 (AM5728 SoC). Create library to make use of AM5728 DSPs (C66x).
+Jeff Rogers,owRISC,Porting xv6 to the lowRISC platform
+charles cui,he NetBSD Foundation,POSIX Test Suite Compliance
+haris3301,EMU,Postcopy migration: Recovery from a broken network connection
+Malith Jayaweera, project for statistical computing,postCP Package Improvement
+sanya,"ysters, an Anita Borg Institute Community",PowerUp (iOS)
+Aanchal Somani,"ysters, an Anita Borg Institute Community",PowerUp Proposal
+JDeHaan, Foundation,Precise Garbage Collection for D
+kebertx,pache Software Foundation,Predicting Criminal Moments with Hidden Markov Models
+mahesh dananjaya,SO2,PREDICTIVE ANALYTICS WITH ONLINE DATA FOR WSO2 MACHINE LEARNER
+ramcha24,umFOCUS,Presolve Routines for LP and SDP within Convex.jl
+varunjoshi,ozilla,Prevent Failures due to Update Races
+Supun Arunoda,ational Resource for Network Biology (NRNB),Principal Coordinate Analysis and t-Distributed Stochastic Neighbor Embedding in clusterMaker2
+Mathu,OSSIE - The Australian National University's Open-Source Software Innovation and Education,Private medical data comparison functions for similar patient matching
+AnnaMuharram,eam Community,Privileged Entity Support to Write Powerful External Components for ejabberd
+Michael Skalka,he Linux Foundation,Programmatically Discover Data Center Topology
+Ajith Peter,nss-sdr,Project Frisbee : An Antenna Array Receiver Testbed for GNSS-SDR
+Emmanuel Hayford Mensah,erkman Center for Internet and Society,Project Lumen
+rclakmal,EAMMATES @ National University of Singapore,Project Proposal - Reports+ in TEAMMATES -GSoC 2016
+AlminCausevic,pen Source Robotics Foundation,"Project Proposal for ""Graphical interface for inserting plugins during simulation"" Causevic"
+Ruchiranga Wickramasinghe,oomla!,Project X: JavaScript Unit Tests: Project Proposal
+Maria Sheyanova,he Apertium Project,Project: Adopting a language pair
+Dmitry.Bezheckov,pache Software Foundation,Proposal for Apache Open Meetings: OPENMEETINGS-1353
+all3fox,Query Foundation,Proposal for commitplease project in jQuery
+runnerway,penKeychain (OpenPGP for Android),Proposal for GSoC 2016 - Andrea Torlaschi
+niccokunzmann,OSSASIA,Proposal for Knitting and IoT-cloud services
+Harshit Bansal,NU Mailman,Proposal for project : Preset List Settings Template(aka Styles)
+wonook,pache Software Foundation,Proposal for the Apache REEF project
+MikeLing,ozilla,Proposal of Redesign SETA
+quixotic,IT Media Lab,Proposed Summer Project
+AndreeaBican,BioPortal for Cancer Genomics,Prototype Plugin framework for Authentication
+sidthekid,reen Navigation,Prototyping Tool
+spacekookie,reifunk,Provide a cryptographic implementation for Qaul.net
+Atul Anand,NOME,Proxies in NetworkManager
+mmuesly,ava Pathfinder Team,PSYCO for Reactive Systems
+DaryaGolovko,penStreetMap,Public Transport Assistant Plugin for JOSM
+shagalla,ariaDB,Pushing conditions into non-mergeable views and derived tables in MariaDB
+ninjacomics,NU Radio,PyBOMBS & CGRAN Enhancements
+Raffael_T,ython Software Foundation,"PyPy: Integration of Async IO, Matrix Multiplication and Unpacking Generalizations for Python 3.5 Semantics"
+Ondřej Pešek,SGeo - The Open Source Geospatial Foundation,PyQt implementation of GUI forms generated automatically from XML
+TaylorOshan,ython Software Foundation,PySAL: Integrating Poisson count models and spatial effects for spatial interaction modeling.
+Oleh Prypin,eph,Python 3 Support for Ceph
+Michaël Sghaïer,istributed and Unified Numerics Environment (DUNE),Python bindings for the DUNE grid interface
+reachtarunhere,imacode,Python Implementations & Visualization of Algorithms in AIMA 4th Edition.
+machinex,ortland State University,Python Interface for VLFeat Library
+Dalmon Ian,ree and Open Source Silicon Foundation,QEMU port of OpenRISC
+Reda,EMU,"qemu-img fuzzing and subcommand ""dd"""
+akbargumbira,SGeo - The Open Source Geospatial Foundation,"QGIS Styles, Symbols, and SVG Markers Sharing Repository"
+dgallegos,obocomp,Qt5 and ROS support
+bj,nternational Neuroinformatics Coordinating Facility,"Qt5 in PISAK.org, an open system for alternative communication"
+flore77,Query Foundation,Qunit - Standard reporter interface
+Amanda Jayanetti,apian Search Engine Library,R bindings for Xapian
+lozhnikov,lpack: a scalable C++ machine learning library,"R+ trees, Hilbert R trees, vantage point trees, random projection trees, UB trees implementation"
+Probhonjon Baruah,omputational Science and Engineering at TU Wien,R/Privacy: Raising the quality and trust of data privacy software
+Pavel.Alpha,he Linux Foundation,Race detection in Linux kernel
+Gautier GC,adare,Radare Web Interface
+ivange94,penMRS,Radiology Reporting Enhancement
+Hiroyuki,uby,Rails: Support Auto-Completion in Web Console
+sunoru,he Julia Language,Random Number Generators for Julia language
+arpitdm,age Mathematical Software System,Rank Metric Codes in Sage
+p4,atrobat,Raspberry Pi Integration + Feature Completeness (Scratch)
+deval,TEMS Project,Raspberry PI USB and Ethernet Support
+Harkirat,ambit - Software Tools for Game Theory,Re-design of GTE in Javascript
+Prempal Singh,ealth Information Systems Programme,Re-implement DHIS2 android data capture applications to use shared database
+Laavanye Bahl,ealth Information Systems Programme,Re-implementing DHIS Dashboard App
+Qin Wenfeng, project for statistical computing,RE2 regular expressions in R
+Kentaro Wada,pen Source Robotics Foundation,Reactive and Adaptive Path Planning Using Sensor Feedback and Operator Input
+Sudarshan Konge,penAstronomy,Real Time Data Access and Visualisation tools.
+tom3012,reen Navigation,Real-Time Navigation and Smart Notifications
+Lukas Bystricky,"rban Energy Systems Laboratory, Empa",Real-time Wind Flow in Cities
+kruczjak,uby,"Rebuild bundler.io, the Bundler website"
+Salva Carrión,range – Data Mining Fruitful & Fun,Recommender Systems (Add-on)
+Mohamed Karam,oomla!,"Recording actions logs, accessible by super admin"
+Akshay Deep,ibreOffice,Redesigning the Template Manager and Emoji Toolbar Control
+Maximilian Probst,RISM Model Checker,Refactoring and optimizing model construction for the explicit engine
+Aditi Dutta,ERN SFT,Reflection-based Python-C++ language bindings: cppyy - Integrate the Cling backend into PyPy/cppyy
+kcm, project for statistical computing,Regularized interval regression
+Michael Zangl,penStreetMap,Reorganizing JOSM core
+Tarun kumar yadav,EAMMATES @ National University of Singapore,Report + And Question +
+panzone,hapel,Reporting stack traces on halt
+kuchumovri,CExtractor Development,Repository and Services for it
+Anjali Ujjainia,iviCRM,Responsive Email Layout
+Manujith,SO2,RESTful Fine Grained Authorization-as-a-Service (AZaaS)  for the WSO2 Identity Server
+Prerit Garg,umFOCUS,Result-aggregation server for the installation-test scripts
+susobhang70,ibreOffice,Review of Sidebar and it's functionality
+Akshesh,jango Software Foundation,Reworking Django's Indexes
+mthl,NU Project,Rewrite Hydra to be more integrated with Guix
+Lalith Rallabhandi,ublic Lab,Rich Profile tags and improving the performance of Publiclab.org
+Gasuleg,ebian Project,Ring project
+eliaskousk,ree and Open Source Silicon Foundation,RISC-V port to Parallela
+Harit,obocomp,RoboComp: Object detection for simulated environments
+rkojcev,pen Source Robotics Foundation,ROS Interface for Impedance/Force Control
+Vladislav Tananaev,obile Robot Programming Toolkit (MRPT),ROS packages for versatile RBPF-based SLAM
+akashtndn, project for statistical computing,Rperform: performance analysis for R package code
+Habeeb Olufowobi,TEMS Project,RTEMS Port to ARM Cortex-M4F core-based MCUs
+iCHAIT,SU Open Source Lab,Ruby Port of Pymesync
+Rajith Vidanaarachchi,uby Science Foundation,Ruby Wrappers for SymEngine
+karthiksenthil,ortland State University,ruby_curry : A compiler implementation for Curry built in Ruby
+matevzkren,range – Data Mining Fruitful & Fun,Rule induction (CN2)
+garou6666,he Honeynet Project,Rumal Dennis Parchkov
+nadeesh092,pache Software Foundation,Running Docker from Apache Taverna
+kc1212,NU Project,Rust implementation of GNUnet utils
+Zhengyang Liu,he LLVM Compiler Infrastructure,SAFECode’s Memory Policy Hardening
+Gayan Liyanaarachchi,SO2,SAML Assertion Query/Request Profile support for WSO2 Identity Server
+gianfro,he Apertium Project,"Sardu, abbarra vivu!"
+Devesh Khandelwal,ational Resource for Network Biology (NRNB),SBGN-ML and SBML to Escher Converter
+loibi93,atrobat,Scenes and Feature Completeness
+martianwars,ozilla,Schedule TaskCluster Jobs in Treeherder
+Kvyh,penAstronomy,Scheduling capabilities for Astroplan
+jefferyshivers,NU Project,ScholarLY Annotations
+Greenify, Foundation,Science for D - a non-uniform RNG
+Yen,ython Software Foundation,scikit-learn: Adding fused types to Cython files
+rootavish,ython Software Foundation,ScrapingHub - Enhancing the Performance of Scrapy's Signaling API
+Aron Barreira Bordin,ython Software Foundation,Scrapinghub - Scrapy: Support for Spiders in other Programming Languages
+mike1808,ython Software Foundation,Scrapinghub Splash: Web Scraping Helpers
+Preetwinder,ython Software Foundation,Scrapinghub: Frontera Python 3 Support
+Abhijit Suresh,IT Media Lab,Searching Blocks in the Blocks Editor
+Furkan KAMACI,pache Software Foundation,Security Layer for NutchServer (NUTCH-1756)
+Adhyan,ifos Initiative,Self - Service | Web/Hybrid App Development
+shoogle,useScore,Semi-realtime MIDI
+Josephine,EAMMATES @ National University of Singapore,Sessions + (Customisable Feedback Paths)
+Shailesh Tripathi,nternational Neuroinformatics Coordinating Facility,Shailesh Tripathi- GSoC Project #9.2: Adding OpenCL support to GeNN
+rahulr,etaBrainz Foundation,Show tag search results in Picard
+Varun Raval,clipse Foundation,Sign and Verify Script
+Sbmueller,NU Radio,Signal Analysis Toolbox (gr-inspector)
+Alexis Duque,hysical Web Project,Smart Coffee Machine with proximity pairing
+Ibrahim Jarif,pache Software Foundation,Smoke Tests and Continuous Integration Infrastructure for Apache Open Climate Workbench
+gvso,rupal,Social API
+Steff,atrobat,Social Media Features
+rajbdilip,iviCRM,Social Media Integration with CiviCRM
+bsmelo,oletta Project,sol-lwm2m: Implement missing features
+Rakesh Verma,rupal,Solving content conflicts with merge algorithms in Drupal 8
+Akhilesh Srikanth,cala,Source Code Preserving AST
+pmezydlo,eagleBoard.org,SPI slave driver implementation
+Xinyun Li,istributed and Unified Numerics Environment (DUNE),Spline geometries for isogeometric analysis
+leot,he NetBSD Foundation,Split debug symbols for pkgsrc builds
+Rostyslav Zatserkovnyi,ovingBlocks,Standalone NUI extraction and visual NUI editor
+Xin Chen, project for statistical computing,Standard Error of Risk and Performance Measures for Non-Normal and Serially Correlated Asset Returns
+Stan Shterev,nclusive Design Institute,Stanislav Shterev IDI UIO Responsive Design Proposal
+Akif,clipse Foundation,Statistics from the Developer Workspace
+Leland Bybee,ython Software Foundation,Statsmodels: Distributed Estimation and Statistical Inference for Regression
+Valera Likhosherstov,ython Software Foundation,Statsmodels: State-Space Models with Markov Switching
+aleks_,ython Software Foundation,statsmodels: Vector Error Correction Model (VECM)
+ankit12105012,"BDyn, Department of Aerospace Science and Technology at Politecnico di Milano",Step Size Control
+Naam,trace,Strace Fault Injection Proposal
+Jérémie A.,ugar Labs,Sugar Labs proposal - Jeremie Amsellem
+Ütkarsh Tiwari,ugar Labs,Sugar on the Ground
+jesa,reeBSD,Support bhyve as a Vagrant VM backend
+ng420,apian Search Engine Library,Support for HHVM
+Marko Dimjašević,ebian Project,Support for KLEE in Debile
+Akshat Tandon,DE,Support for medium and low tile levels in the OSM Vector Map of Marble
+KrishnaKanhaiya,he Julia Language,Support for Optimization with Complex Variable in Convex.jl
+Jaskaran Veer Singh,ibreOffice,Support ODF styles in Calc using Orcus
+marn,reifunk,SWOON: Simultaneous Wireless Organic Optimization within Nodewatcher
+Abhinav Tripathi,NU Octave,Symbolic Package
+AdityaK,iviCRM,Synchronization Framework
+kvch,he syslog-ng project,syslog-ng as a command line tool
+Aditi Gupta,"ysters, an Anita Borg Institute Community",Systers Features for Mailman 3
+segfault,he Tor Project,Tails Server
+Thilina Manamgoda,pache Software Foundation,TAVERNA-880 Browse+use CWL tool descriptions
+Shivansh Rai,reeBSD,TCP/IP Regression Test Suite
+Ján Sebechlebský,Fmpeg,Tee muxer improvement
+Alok Anand,ebian Project,Telepathy Connection Manager for Ring protocol
+aishcat5,2°North Initiative for Geospatial Open Source Software GmbH,Terrain Model Generation and Analysis
+Thyr Nat,"ysters, an Anita Borg Institute Community",Test Automation for Mobile App Control Center
+dimcho,Boss Community,Test scheduling for large test suites
+Daisy,"ysters, an Anita Borg Institute Community",Testing Automation
+Anjali,"ysters, an Anita Borg Institute Community",Testing Automation for Peace Corps Safety Web Application(PCSA Web)
+Alexey,range – Data Mining Fruitful & Fun,Text Mining Add On
+mandeep7,RL-CAD,The FreeCAD Plugin Installer
+Kevin Naughton Jr.,he Linux Foundation,The Linux Foundation OpenPrinting Proposal (Draft)
+FedBai,bpediaspotlight,The List Extractor
+MilesGSOC,ational Resource for Network Biology (NRNB),The Online Resource for Interface Based Interaction Networks (TOR-IBIN) Web Interface
+OXPHOS,hogun Machine Learning Toolbox,The Shogun Detox – GSoC 2016 Proposal
+s.papalini,bpediaspotlight,The Table Extractor
+Dabyly,nternational Neuroinformatics Coordinating Facility,The Virtual Brain Project #2: Improving  Parameter Space Exploration Tool
+Ramana.S,ython Software Foundation,Theano : Better handling of larger graphs and faster optimization phase during compilation
+tsirif,ython Software Foundation,Theano: GPU optimizations and operation support
+Shiva,ozilla,Thunderbird - Implement mbox -> maildir converter
+Usman Mahmood Khan,imelab Technologies Ltd.,Time Series Simulator Using Impulse Responses
+Abhinav Moudgil,ERN SFT,TMVA Project in Machine Learning
+Aswin kumar J,ed Hen Lab,To construct Bootstrapping Human Motion Data for Gesture Analysis
+Alexandru Elisei,oodle,tool_pluginkenobi: Your guide to plugin creation
+André Pereira,iscourse,"Topic summaries, Canned Replies and Presence features"
+mcneela,nternational Neuroinformatics Coordinating Facility,Towards Support for Reverse Engineering of Neural Circuits and Non-Linear Dimensionality Reduction in Fovea and PyDSTool
+aleksandrachasch,nitex/GramLab,TreeCloud Visualization tool
+darkapex,Fmpeg,TrueHD Encoder
+Lineprinter,trace,Truly structured output for strace
+Prayash Mohapatra,ython Software Foundation,Tryton: Add CSV Import/Export to SAO Client
+joseph.stahl,ational Resource for Network Biology (NRNB),Tutorials for Cytoscape.js
+bryik,ozilla,"Two Projects to Make A-Frame More Useful, Accessible, and Exciting"
+sushant94,adare,Type Inference and C Output for radeco
+dtomek,abLua,Typed Lua Core Typechecker
+Lays Rodrigues,DE,Umbrello: New Breath
+autoit,ibreOffice,Unifying low-level text layout using HarfBuzz
+Sachin Setiya,ariaDB,Unique Index for BLOBs And Adaptive Hashing for Generated Hash
+Shubham2,ariaDB,Unique Indexes for blobs
+Pranav Tiwari,uildmLearn,University Campus Portal (UCP)
+MYLS,penCV,Update OpenCV file storage
+Akshika Wijesundara,penMRS,Upgrade Data Collection support for Human Genetics Care
+goelakash,umFOCUS,Upgrade to datapackage.json standard
+Sachin Paryani,oston University / XIA,Upgrading the FIB hash table of principals to the relativistic hash table
+uajain,NOME,Uploading photos to Google
+YongJie,EAMMATES @ National University of Singapore,Usability Hero: Rethinking the UI/UX
+sheff_146,2°North Initiative for Geospatial Open Source Software GmbH,Usability improvements for smle
+ali-mohamed,DE,Use Phabricator API to enhance KDE Reports
+Amarjeet Kapoor,RL-CAD,User Interface for Customizing Models
+Dilushi,ustainable Computing Research Group ( SCoRe ),User interfaces for Tracker
+adhbh,ealth Information Systems Programme,User Profile App using ReactJs
+Varun Shankar S,pen Genome Informatics,Using Go-Docker to enhance Galaxy functionalities
+JaneOL,ava Pathfinder Team,Using JPF to efficiently compute workload in Multi-Agent Systems
+SaphireS,lender Foundation,UV Tools
+aingerson,ortland State University,Variable Segment Length Bitmap Compression
+Benjamin St,Fmpeg,VDPAU filter
+Jianfeng.Chen,ava Pathfinder Team,Verifying Safety of NextGen Models
+Jayamine Alupotha,ert.x,"Vert.x Eventbus clients for Python,C#, C, and Rust applications"
+Felipe Poveda,SGeo - The Open Source Geospatial Foundation,VistSOS: the istSOS Data Visualization Framework
+Naveen Jafer,2°North Initiative for Geospatial Open Source Software GmbH,Visual Analytics of EnviroCar Tracks
+kepta,penStreetMap,Visual Lane Editor for iD
+aniarya,pen Genome Informatics,Visualisation for BLAST results
+Xavi Cobos,iquid Galaxy Project,Visualization DLP (Drone Logistics Platform)
+Wolfgang Beyer,"enes, Genomes and Variation",Visualization of Genomic Sequence Graphs
+MasonGallo, project for statistical computing,Visualization of model hyperparameter optimization curves
+nasyrin, project for statistical computing,Visualization of powerful boundary detection tools
+dimitris_proios,ioJS,Visualization of target-disease relationships in drug discovery
+Chao,ava Pathfinder Team,Visualization Support for JDart
+Istemi Bahceci,ational Resource for Network Biology (NRNB),Visualizing genomic alterations in TCGA cancer pathways in cBioPortal
+jontromanab,pen Source Robotics Foundation,Visualizing Joint Solutions in Descartes
+Medha,omputational Science and Engineering at TU Wien,"Visualizing Tool for Probabilistic Classification data in WEKA, RapidMiner, KNIME and R"
+Rocketone,useScore,voice to part tool and extended implode/explode tool
+Tharindu,clipse Foundation,Vorto : Web based Graphical IoT System Modeling Too
+modwizcode,opyleft Games,Vox.GL Bootstrap
+afeena,he Honeynet Project,Vulnerability emulation for SNARE and TANNER
+Riyafa Abdul Hameed,pache Software Foundation,VXQUERY-178: Support JSONiq - add objects to the data model
+Waqee Khalid,erkman Center for Internet and Society,Wave Federation protocol over the Matrix Protocol
+nilay_jain,lpack: a scalable C++ machine learning library,We need to go deeper - GoogLeNet
+Heshan Jayasinghe,SO2,Web (Javascript / D3) based BPMN editor to support a subset of commonly used BPMN constructs
+Shivee,ealth Information Systems Programme,Web App for quick entry of test data in DHIS2 tracker
+Mateus Augusto Bellomo Agrello Ruivo,ebian Project,Web Client and Connection Manager for reSIProcate
+cvp,he Honeynet Project,Web Interface and Generic API Development for Holmes Processing
+Jan Rudolf,SGeo - The Open Source Geospatial Foundation,Web-based administration & process management for PyWPS
+Shiv Kandikuppa,clipse Foundation,Web-based Dev Tool to create Information Models
+baygeldin,ozilla,Web-based GDB Frontend
+Iulian Radu,NOME,Web: Bookmarks Subsystem Update
+Gabriel Ivașcu,NOME,Web: Session Sync
+Mayank Agrawal,SGeo - The Open Source Geospatial Foundation,WEBGRASS
+Vivek Pal,apian Search Engine Library,Weighting Schemes
+Armin Krezović,ayland,Weston output management enhancements
+Nges Brian,pache Software Foundation,White Box and Regression Testing of the Mynewt OS
+jayssj11,DE,Wiki-to-learn (W2L) Desktop Client
+Abhimanyu Singh Shekhawat,DE,WikiToLearn Rating
+zhu48,eactOS,Win32 Network Driver with lwIP 1.4.1
+pablombg,etfilter project,Work on nftables missing features and iptables to nftables translation tool
+ahillier,iviCRM,Work to improve and expand CiviMobile
+ulim,pen Genome Informatics,Work with the Dockstore Team and the GA4GH to Enable Cross Docker Repository Sharing
+Sanac,he STE||AR Group,Working on parallel algorithms for hpx::vector
+M.Chav,cala,Working towards a fully featured version of CBT
+Yash Sanap,obocomp,Writing a name and port service for running components
+sampig,cilab Enterprises,Xcos Automatic Layout II
+system64,he Honeynet Project,YAPDNS
+Balu Menon,ebian Project,YooHoo - The Perfect Chat Engine
+Rishabh Rawat,ree and Open Source Silicon Foundation,Yosys Tools: Automatic schematic generation for web browsers
+OnkarShedge,pache Software Foundation,Zeppelin Notebook Storage using P2P protocol
+anish18sun,pache Software Foundation,Zeppelin Notebooks
+Alex Chrabrow,nternational Neuroinformatics Coordinating Facility,ZeroMQ-based distributed messaging system in the OpenBCI brain­-computer interface framework
+kunall17,ulip Open Source Project,Zulip Android Application Rebuild
+hatim,oreboot,"​Obscure Features, Locking/Unlocking of Access  Protection, EEPROMs and CFI"
+SnShines,imacode,‘aima-python’ code to accompany the book “AI: A Modern Approach”
